@@ -7,4 +7,3 @@ end
 
 meal_choice("fish")
 meal_choice()
-meal_choice
